@@ -1,0 +1,21 @@
+.lijevaStrana {
+    display: flex;
+    border: 3px solid #fff;
+    padding: 20px;
+    float: left;
+    font: 300;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.desnaStrana {
+    flex:1;
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+    float: right;
+    font: 300;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
